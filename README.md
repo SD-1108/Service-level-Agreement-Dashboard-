@@ -2,7 +2,7 @@
 
 ## 📊 SLA Dashboard Preview
 
-![SLA Dashboard](SLA%20dashboard/updated%20Sla%20dashboard%20img.jpg)
+![SLA Dashboard](updated%20Sla%20dashboard%20img.jpg)
 
 ---
 
